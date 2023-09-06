@@ -1,0 +1,20 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.p{
+    background-image:url("pexels-bri-schneiter-346529.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+    
+    }
+.pp{
+    font-size: 50px;
+    background-color:whitesmoke;
+    background-attachment: fixed;
+    background-size: auto;
+    text-align: center;
+    margin-top: 800px;
+    
+    
+}

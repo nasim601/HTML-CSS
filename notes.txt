@@ -1,0 +1,8 @@
+CSS
+  introduction
+  internal and external
+  css selectors
+	id selector  = #id_name ex: #ppp
+	class selector = .class_name ex: .xyz    
+	group selector = tag_name ex: body
+	attribute selector = atr_name ex: a[href=""]
